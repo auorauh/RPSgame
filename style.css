@@ -1,0 +1,6 @@
+body {
+    background-color: lavenderblush;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+}
